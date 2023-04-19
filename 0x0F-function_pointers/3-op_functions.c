@@ -11,7 +11,7 @@ int op_mod(int a, int b);
  * op_add -  op_add - adds two integer numbers @a and @b and returns the sum
  * @a: The first number.
  * @b: The second number.
- * 
+ *
  * Return: the sum of @a and @b
  */
 
