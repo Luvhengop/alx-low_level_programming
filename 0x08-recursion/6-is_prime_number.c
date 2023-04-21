@@ -17,7 +17,7 @@ int is_prime_number(int n)
 	}
 	else if (n > 2)
 	{
-	return (is_prime_number (2));
+	return (is_prime_number(2));
 	}
 	return (0);
 }
