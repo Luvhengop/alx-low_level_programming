@@ -10,6 +10,7 @@ int _islower(int c)
 {
 	int i = 97;
 
+	putchar(r + '0');
 	while (i <= 122)
 	{
 		if (c == i)

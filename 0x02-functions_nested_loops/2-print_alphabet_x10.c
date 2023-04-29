@@ -18,10 +18,10 @@ void print_alphabet_x10(void)
 
 		while (f <= 122)
 		{
-			_putchar(i);
+			putchar(f);
 			if (f == 122)
 			{
-				_putchar('\n');
+				putchar('\n');
 			}
 			f++;
 		}
