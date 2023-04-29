@@ -11,10 +11,10 @@ void print_alphabet(void)
 
 	while (i <= 122)
 	{
-		_putchar(i);
+		putchar(i);
 		if (i == 122)
 		{
-			_putchar('\n');
+			putchar('\n');
 		}
 		i++;
 	}
