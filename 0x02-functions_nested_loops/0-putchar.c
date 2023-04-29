@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * main - print _putchar
  * is written by bwave
@@ -7,7 +8,7 @@
 
 int main(void)
 {
-_putchar('-');
+putchar('-');
 _putchar('p');
 _putchar('u');
 _putchar('t');
