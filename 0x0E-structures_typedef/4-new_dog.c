@@ -3,7 +3,7 @@
 
 /**
  * _strlen - gives length of a string
- * @str: given string
+ * @s: given string
  *
  * Return: integer length
  */
@@ -22,7 +22,7 @@ int _strlen(char *s)
 	return (f);
 }
 /**
- * cpystr - copies string from the src to destination
+ * _strcpy - copies string from the src to destination
  * @src: src string
  * @dest: destination string
  *
